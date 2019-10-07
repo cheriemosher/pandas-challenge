@@ -1,0 +1,14 @@
+The first trend I noticed in the data was that 'school type' 
+influenced student performance.  The highest performing schools were
+all charter schools and the lowest were district, no matter the per 
+student budget nor the total number of students at the school.  I would 
+like to get more data on the support for teachers, and economic and 
+racial information of students to better understand why charter schools 
+perform better.
+
+I also noticed that both math and reading scores remained consistent for
+a school through all four years (9th, 10th, 11th, and 12th).  The average 
+per school generally remained within one point.  I, again, would want 
+more information on what may be influencing this and whether it is about 
+the students abilities or the different standards for grading at the
+different schools. 
